@@ -1,3 +1,14 @@
-# Wawawewa
+# Hello World Code
 
-This is a new file created by Grok.
+## Python
+```python
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
+```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
